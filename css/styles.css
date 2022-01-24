@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(134, 104, 104, 0.25);
+    background-color: rgba(148, 124, 124, 0.3);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
 }
@@ -23,6 +23,13 @@ li {
 h3 {
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+h4 {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    text-align: left;
 }
 
 .center {
