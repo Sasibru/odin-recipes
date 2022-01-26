@@ -4,6 +4,12 @@ body {
     font-size: 18px;
 }
 
+* {
+    padding: 0px;
+    margin: 10px;
+    border: 10px;
+}
+
 ul {
     text-align: left;
     width: 300px;
